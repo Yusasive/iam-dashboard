@@ -39,7 +39,7 @@ A modern, responsive Identity and Access Management (IAM) dashboard built with R
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Yusasive/iam-dashboard.git
    cd iam-dashboard
    ```
 
