@@ -1,4 +1,3 @@
-import React from "react";
 import { UserTable } from "./components/UserTable";
 import { UserFilters } from "./components/UserFilters";
 import { UserDetailPanel } from "./components/UserDetailPanel";
