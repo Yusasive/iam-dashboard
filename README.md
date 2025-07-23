@@ -163,14 +163,6 @@ src/
 - **Loading States**: All async operations include loading indicators
 - **Edge Cases**: Handles empty states, network failures, and invalid data
 
-### Future Enhancements
-
-- **Real Backend Integration**: Replace mock API with actual backend services
-- **Advanced Filtering**: Add more filter options (role, department, date ranges)
-- **Bulk Operations**: Select multiple users for bulk actions
-- **User Creation/Editing**: Add forms for creating and editing user accounts
-- **Audit Logging**: Track user actions and changes
-- **Role Management**: Dedicated interface for managing roles and permissions
 
 ## Browser Support
 
